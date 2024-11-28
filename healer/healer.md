@@ -7,29 +7,13 @@ Ce joue en equi T8 sur l'arme et le torse. T7 pour le reste.
 
 ## Les différents équipements
 ### Le GOAT - Le Sanctificateur
-<img src="https://render.albiononline.com/v1/item/T8_MAIN_HOLYSTAFF_AVALON@0?quality=4" alt="Sancti" width="100"/>
-<img src="https://render.albiononline.com/v1/item/T8_OFF_HORN_KEEPER@0?quality=4" alt="Sancti" width="100"/>
-<img src="https://render.albiononline.com/v1/spell/HOLYFLASH" alt="Q" width="60"/>
-<img src="https://render.albiononline.com/v1/spell/HOLYORB" alt="Z" width="60"/><img src="https://render.albiononline.com/v1/spell/DIVINE_JUMP" alt="E" width="60"/>
-<img src="https://render.albiononline.com/v1/spell/PASSIVE_HEALPOWERCHANCE" alt="1er passif" width="60"/>
+<img src="https://render.albiononline.com/v1/item/T8_MAIN_HOLYSTAFF_AVALON@0?quality=4" alt="Sancti" width="100"/><img src="https://render.albiononline.com/v1/item/T8_OFF_HORN_KEEPER@0?quality=4" alt="Sancti" width="100"/><img src="https://render.albiononline.com/v1/spell/HOLYFLASH" alt="Q" width="60"/><img src="https://render.albiononline.com/v1/spell/HOLYORB" alt="Z" width="60"/><img src="https://render.albiononline.com/v1/spell/DIVINE_JUMP" alt="E" width="60"/><img src="https://render.albiononline.com/v1/spell/PASSIVE_HEALPOWERCHANCE" alt="1er passif" width="60"/>
 
-<img src="https://render.albiononline.com/v1/item/T8_HEAD_CLOTH_KEEPER@0?quality=4" alt="Sancti" width="100"/>
-<img src="https://render.albiononline.com/v1/spell/ENERGYFIELD" alt="1er passif" width="60"/>
-<img src="https://render.albiononline.com/v1/spell/PASSIVE_INCREASED_DAMAGE" alt="1er passif" width="60"/>
-<img src="https://render.albiononline.com/v1/item/T8_HEAD_LEATHER_SET3@0?quality=4" alt="Sancti" width="100"/>
-<img src="https://render.albiononline.com/v1/spell/SELF_CLEANSE" alt="1er passif" width="60"/>
-<img src="https://render.albiononline.com/v1/spell/PASSIVE_CD_REDUCTION" alt="1er passif" width="60"/>
-<img src="https://render.albiononline.com/v1/item/T8_HEAD_PLATE_SET2@0?quality=4" alt="Sancti" width="100"/>
-<img src="https://render.albiononline.com/v1/spell/DISRUPTIONIMMUNITY" alt="1er passif" width="60"/>
-<img src="https://render.albiononline.com/v1/spell/PASSIVE_MR_AR" alt="1er passif" width="60"/>
+<img src="https://render.albiononline.com/v1/item/T8_HEAD_CLOTH_KEEPER@0?quality=4" alt="Sancti" width="100"/><img src="https://render.albiononline.com/v1/spell/ENERGYFIELD" alt="1er passif" width="60"/><img src="https://render.albiononline.com/v1/spell/PASSIVE_INCREASED_DAMAGE" alt="1er passif" width="60"/><img src="https://render.albiononline.com/v1/item/T8_HEAD_LEATHER_SET3@0?quality=4" alt="Sancti" width="100"/><img src="https://render.albiononline.com/v1/spell/SELF_CLEANSE" alt="1er passif" width="60"/><img src="https://render.albiononline.com/v1/spell/PASSIVE_CD_REDUCTION" alt="1er passif" width="60"/><img src="https://render.albiononline.com/v1/item/T8_HEAD_PLATE_SET2@0?quality=4" alt="Sancti" width="100"/><img src="https://render.albiononline.com/v1/spell/DISRUPTIONIMMUNITY" alt="1er passif" width="60"/><img src="https://render.albiononline.com/v1/spell/PASSIVE_MR_AR" alt="1er passif" width="60"/>
 
-<img src="https://render.albiononline.com/v1/item/T8_ARMOR_CLOTH_AVALON@0?quality=4" alt="Sancti" width="100"/>
-<img src="https://render.albiononline.com/v1/spell/CASTBUBBLE" alt="1er passif" width="60"/>
-<img src="https://render.albiononline.com/v1/spell/PASSIVE_ARMOR_INCREASED_DAMAGE" alt="1er passif" width="60"/>
+<img src="https://render.albiononline.com/v1/item/T8_ARMOR_CLOTH_AVALON@0?quality=4" alt="Sancti" width="100"/><img src="https://render.albiononline.com/v1/spell/CASTBUBBLE" alt="1er passif" width="60"/><img src="https://render.albiononline.com/v1/spell/PASSIVE_ARMOR_INCREASED_DAMAGE" alt="1er passif" width="60"/>
 
-<img src="https://render.albiononline.com/v1/item/T8_SHOES_LEATHER_MORGANA@0?quality=4" alt="Bottes de traqueur"  width="100"/>
-<img src="https://render.albiononline.com/v1/spell/DMG_BLINK" alt="1er passif" width="60"/>
-<img src="https://render.albiononline.com/v1/spell/PASSIVE_BALANCE" alt="1er passif" width="60"/>
+<img src="https://render.albiononline.com/v1/item/T8_SHOES_LEATHER_MORGANA@0?quality=4" alt="Bottes de traqueur"  width="100"/><img src="https://render.albiononline.com/v1/spell/DMG_BLINK" alt="1er passif" width="60"/><img src="https://render.albiononline.com/v1/spell/PASSIVE_BALANCE" alt="1er passif" width="60"/>
 
 
 
@@ -40,49 +24,24 @@ Ce joue en equi T8 sur l'arme et le torse. T7 pour le reste.
 Le E toujours en defensif sur les repacks, mais il reste possible en offensif.  Par exemple un E dans le repack du golem, CC le pack et heal un peu le golem (Pas hyper opti, mais possible, c'est une bonne prévention).
 
 ### Le Bâton Déchu
-<img src="https://render.albiononline.com/v1/item/T8_2H_HOLYSTAFF_HELL@0?quality=4" alt="Sancti" width="100"/>
-<img src="https://render.albiononline.com/v1/spell/HOLYFLASH" alt="Q" width="60"/>
-<img src="https://render.albiononline.com/v1/spell/HOLYORB" alt="Z" width="60"/>
-<img src="https://render.albiononline.com/v1/spell/HOLY_ULTIMATE" alt="E" width="60"/>
-<img src="https://render.albiononline.com/v1/spell/PASSIVE_HOLY_ASCENDED" alt="4è passif" width="60"/>
+<img src="https://render.albiononline.com/v1/item/T8_2H_HOLYSTAFF_HELL@0?quality=4" alt="Sancti" width="100"/><img src="https://render.albiononline.com/v1/spell/HOLYFLASH" alt="Q" width="60"/><img src="https://render.albiononline.com/v1/spell/HOLYORB" alt="Z" width="60"/><img src="https://render.albiononline.com/v1/spell/HOLY_ULTIMATE" alt="E" width="60"/><img src="https://render.albiononline.com/v1/spell/PASSIVE_HOLY_ASCENDED" alt="4è passif" width="60"/>
 
-<img src="https://render.albiononline.com/v1/item/T8_HEAD_LEATHER_SET3@0?quality=4" alt="Sancti" width="100"/>
-<img src="https://render.albiononline.com/v1/spell/SUMMONER_CD_REDUCTION" alt="1er passif" width="60"/>
-<img src="https://render.albiononline.com/v1/spell/PASSIVE_CD_REDUCTION" alt="1er passif" width="60"/>
+<img src="https://render.albiononline.com/v1/item/T8_HEAD_LEATHER_SET3@0?quality=4" alt="Sancti" width="100"/><img src="https://render.albiononline.com/v1/spell/SUMMONER_CD_REDUCTION" alt="1er passif" width="60"/><img src="https://render.albiononline.com/v1/spell/PASSIVE_CD_REDUCTION" alt="1er passif" width="60"/>
 
-<img src="https://render.albiononline.com/v1/item/T8_ARMOR_CLOTH_AVALON@0?quality=4" alt="Sancti" width="100"/>
-<img src="https://render.albiononline.com/v1/spell/CASTBUBBLE" alt="1er passif" width="60"/>
-<img src="https://render.albiononline.com/v1/spell/PASSIVE_ARMOR_INCREASED_DAMAGE" alt="1er passif" width="60"/>
+<img src="https://render.albiononline.com/v1/item/T8_ARMOR_CLOTH_AVALON@0?quality=4" alt="Sancti" width="100"/><img src="https://render.albiononline.com/v1/spell/CASTBUBBLE" alt="1er passif" width="60"/><img src="https://render.albiononline.com/v1/spell/PASSIVE_ARMOR_INCREASED_DAMAGE" alt="1er passif" width="60"/>
 
-<img src="https://render.albiononline.com/v1/item/T8_SHOES_LEATHER_MORGANA@0?quality=4" alt="Bottes de traqueur"  width="100"/>
-<img src="https://render.albiononline.com/v1/spell/DMG_BLINK" alt="1er passif" width="60"/>
-<img src="https://render.albiononline.com/v1/spell/PASSIVE_CD_REDUCTION" alt="1er passif" width="60"/>
+<img src="https://render.albiononline.com/v1/item/T8_SHOES_LEATHER_MORGANA@0?quality=4" alt="Bottes de traqueur"  width="100"/><img src="https://render.albiononline.com/v1/spell/DMG_BLINK" alt="1er passif" width="60"/><img src="https://render.albiononline.com/v1/spell/PASSIVE_CD_REDUCTION" alt="1er passif" width="60"/>
 
 On prends le 4è passif, car le E du déchu a un temps d'incentation, et il est interruptibe. Le E ne se posant que lorsque l'on se retraite, il est super important qu'il ne soit pas interrompu. 
 
 ### Le Bâton de fléau
-<img src="https://render.albiononline.com/v1/item/T8_2H_NATURESTAFF_HELL@0?quality=4" alt="Sancti" width="100"/>
-<img src="https://render.albiononline.com/v1/spell/REJUVMUSHROOM_GRENADE" alt="Q" width="60"/>
-<img src="https://render.albiononline.com/v1/spell/CLEANSEHEAL" alt="Z" width="60"/>
-<img src="https://render.albiononline.com/v1/spell/ROTTENVINES" alt="E" width="60"/>
-<img src="https://render.albiononline.com/v1/spell/PASSIVE_HEALPOWERCHANCE" alt="1er passif" width="60"/>
+<img src="https://render.albiononline.com/v1/item/T8_2H_NATURESTAFF_HELL@0?quality=4" alt="Sancti" width="100"/><img src="https://render.albiononline.com/v1/spell/REJUVMUSHROOM_GRENADE" alt="Q" width="60"/><img src="https://render.albiononline.com/v1/spell/CLEANSEHEAL" alt="Z" width="60"/><img src="https://render.albiononline.com/v1/spell/ROTTENVINES" alt="E" width="60"/><img src="https://render.albiononline.com/v1/spell/PASSIVE_HEALPOWERCHANCE" alt="1er passif" width="60"/>
 
-<img src="https://render.albiononline.com/v1/item/T8_HEAD_CLOTH_KEEPER@0?quality=4" alt="Sancti" width="100"/>
-<img src="https://render.albiononline.com/v1/spell/ENERGYFIELD" alt="1er passif" width="60"/>
-<img src="https://render.albiononline.com/v1/spell/PASSIVE_INCREASED_DAMAGE" alt="1er passif" width="60"/>
-<img src="https://render.albiononline.com/v1/item/T8_HEAD_LEATHER_SET3@0?quality=4" alt="Sancti" width="100"/>
-<img src="https://render.albiononline.com/v1/spell/SELF_CLEANSE" alt="1er passif" width="60"/>
-<img src="https://render.albiononline.com/v1/spell/PASSIVE_CD_REDUCTION" alt="1er passif" width="60"/>
-<img src="https://render.albiononline.com/v1/item/T8_HEAD_PLATE_SET2@0?quality=4" alt="Sancti" width="100"/>
-<img src="https://render.albiononline.com/v1/spell/DISRUPTIONIMMUNITY" alt="1er passif" width="60"/>
-<img src="https://render.albiononline.com/v1/spell/PASSIVE_MR_AR" alt="1er passif" width="60"/>
+<img src="https://render.albiononline.com/v1/item/T8_HEAD_CLOTH_KEEPER@0?quality=4" alt="Sancti" width="100"/><img src="https://render.albiononline.com/v1/spell/ENERGYFIELD" alt="1er passif" width="60"/><img src="https://render.albiononline.com/v1/spell/PASSIVE_INCREASED_DAMAGE" alt="1er passif" width="60"/><img src="https://render.albiononline.com/v1/item/T8_HEAD_LEATHER_SET3@0?quality=4" alt="Sancti" width="100"/><img src="https://render.albiononline.com/v1/spell/SELF_CLEANSE" alt="1er passif" width="60"/><img src="https://render.albiononline.com/v1/spell/PASSIVE_CD_REDUCTION" alt="1er passif" width="60"/><img src="https://render.albiononline.com/v1/item/T8_HEAD_PLATE_SET2@0?quality=4" alt="Sancti" width="100"/><img src="https://render.albiononline.com/v1/spell/DISRUPTIONIMMUNITY" alt="1er passif" width="60"/><img src="https://render.albiononline.com/v1/spell/PASSIVE_MR_AR" alt="1er passif" width="60"/>
 
-<img src="https://render.albiononline.com/v1/item/T8_ARMOR_CLOTH_FEY@0?quality=4" alt="Sancti" width="100"/>
-<img src="https://render.albiononline.com/v1/spell/WILD_MAGIC" alt="1er passif" width="60"/>
-<img src="https://render.albiononline.com/v1/spell/PASSIVE_ARMOR_INCREASED_DAMAGE" alt="1er passif" width="60"/>
+<img src="https://render.albiononline.com/v1/item/T8_ARMOR_CLOTH_FEY@0?quality=4" alt="Sancti" width="100"/><img src="https://render.albiononline.com/v1/spell/WILD_MAGIC" alt="1er passif" width="60"/><img src="https://render.albiononline.com/v1/spell/PASSIVE_ARMOR_INCREASED_DAMAGE" alt="1er passif" width="60"/>
 
-<img src="https://render.albiononline.com/v1/item/T8_SHOES_LEATHER_MORGANA@0?quality=4" alt="Bottes de traqueur" width="100"/>
-<img src="https://render.albiononline.com/v1/spell/DMG_BLINK" alt="1er passif" width="60"/>
+<img src="https://render.albiononline.com/v1/item/T8_SHOES_LEATHER_MORGANA@0?quality=4" alt="Bottes de traqueur" width="100"/><img src="https://render.albiononline.com/v1/spell/DMG_BLINK" alt="1er passif" width="60"/>
 <img src="https://render.albiononline.com/v1/spell/PASSIVE_CD_REDUCTION" alt="1er passif" width="60"/>
 
 Se joue avec le soin purifiant, pour purger les CC. Il sert a combler les petit coups, car heal sur la durée pendant très longtemps. Les champis se placent entre les heals et les tanks, pour leur laisser le temps de se charger, et donner au tanks la possibilité de les consommer quand ils le veullent/en ont besoin.
@@ -90,12 +49,9 @@ Se joue avec le soin purifiant, pour purger les CC. Il sert a combler les petit 
 ### En commun
 
 <img src="https://render.albiononline.com/v1/item/T8_CAPEITEM_FW_MARTLOCK
-@0?quality=4" alt="Cape de Martlock" width="100"/>
-<img src="https://render.albiononline.com/v1/item/T7_MEAL_OMELETTE
-@1" alt="Omelette 7.1" width="100"/>
-<img src="https://render.albiononline.com/v1/item/T7_MEAL_OMELETTE
-@2" alt="Omelette 7.2" width="100"/>
-<img src="https://render.albiononline.com/v1/item/T7_POTION_REVIVE" alt="Potion de gigantisme" width="100"/>
+@0?quality=4" alt="Cape de Martlock" width="100"/><img src="https://render.albiononline.com/v1/item/T7_MEAL_OMELETTE
+@1" alt="Omelette 7.1" width="100"/><img src="https://render.albiononline.com/v1/item/T7_MEAL_OMELETTE
+@2" alt="Omelette 7.2" width="100"/><img src="https://render.albiononline.com/v1/item/T7_POTION_REVIVE" alt="Potion de gigantisme" width="100"/>
 
 ## Maximes
 Un heal n'est jamais sensé se heal lui même, car c'est un gachis de CD, puisque tout les spells utilisés sont des heal de zone, on peut donc heal soi et les autres en même temps. 
