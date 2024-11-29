@@ -49,9 +49,7 @@ Se joue avec le soin purifiant, pour purger les CC. Il sert a combler les petit 
 ### En commun
 
 <img src="https://render.albiononline.com/v1/item/T8_CAPEITEM_FW_MARTLOCK
-@0?quality=4" alt="Cape de Martlock" width="100"/><img src="https://render.albiononline.com/v1/item/T7_MEAL_OMELETTE
-@1" alt="Omelette 7.1" width="100"/><img src="https://render.albiononline.com/v1/item/T7_MEAL_OMELETTE
-@2" alt="Omelette 7.2" width="100"/><img src="https://render.albiononline.com/v1/item/T7_POTION_REVIVE" alt="Potion de gigantisme" width="100"/>
+@0?quality=4" alt="Cape de Martlock" width="100"/><img src="https://render.albiononline.com/v1/item/T7_MEAL_OMELETTE@1" alt="Omelette 7_1" width="100"/><img src="https://render.albiononline.com/v1/item/T7_MEAL_OMELETTE@2" alt="Omelette 7_2" width="100"/><img src="https://render.albiononline.com/v1/item/T7_POTION_REVIVE" alt="Potion de gigantisme" width="100"/>
 
 ## Maximes
 Un heal n'est jamais sensé se heal lui même, car c'est un gachis de CD, puisque tout les spells utilisés sont des heal de zone, on peut donc heal soi et les autres en même temps. 
@@ -60,17 +58,15 @@ Quand tu met un heal, la souris doit être **sur** la personne que tu veux heal,
 
 Le heal a interdiction de s'alligner avec les dps sur les engages. Si ils se font CC, tu te fait CC aussi. 
 
-L'orbe est un enfer, la moindre personne qui rentre en contact avec va la faire proc. Il faut donc:
+
+Pour les batons bénis, le Q est trop chiant pour les tanks éloignées, le Z est utile dans çe cas là. Mais l'orbe est un enfer, la moindre personne qui rentre en contact avec va la faire proc. Il faut donc:
 - Soit trouver des lignes bien dégagées
 - Ou en sancti E->Z 
   - Comme ça on la loupe pas, et les gens devant sont ceux que tu veux heal 
 
 
 Faut rester **le plus mobile possible** et mega focus, car il peut se passer un truc en une demi seconde, et si tu n'est pas là c'est fini. 
-Regarder le moindre truc qui se passe sur tes tanks. 
-- La situtation par defaut pour un tank (et plus généralement la front, l'ent par exemple), c'est 100% de vie
-
-Q trop chiant pour les tanks éloignées, le Z est utile dans çe cas là. 
+Regarder le moindre truc qui se passe sur tes tanks. Tant que ta front n'est pas à 100% de vie, aucun repos n'est permis.
 
 
 ## PB principaux 
