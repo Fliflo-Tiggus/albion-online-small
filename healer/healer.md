@@ -70,8 +70,7 @@ La capuche de druide se met on CD sur la front ou la back lane.
 
 ### En commun
 
-<img src="https://render.albiononline.com/v1/item/T8_CAPEITEM_FW_MARTLOCK
-@0?quality=4" alt="Cape de Martlock" width="100"/><img src="https://render.albiononline.com/v1/item/T7_MEAL_OMELETTE@1" alt="Omelette 7_1" width="100"/><img src="https://render.albiononline.com/v1/item/T7_MEAL_OMELETTE@2" alt="Omelette 7_2" width="100"/><img src="https://render.albiononline.com/v1/item/T7_POTION_REVIVE" alt="Potion de gigantisme" width="100"/>
+<img src="https://render.albiononline.com/v1/item/T8_CAPEITEM_FW_LYMHURST@0?quality=4" alt="Cape de Lymurst" width="100"/><img src="https://render.albiononline.com/v1/item/T7_MEAL_OMELETTE@1" alt="Omelette 7_1" width="100"/><img src="https://render.albiononline.com/v1/item/T7_MEAL_OMELETTE@2" alt="Omelette 7_2" width="100"/><img src="https://render.albiononline.com/v1/item/T7_POTION_REVIVE" alt="Potion de gigantisme" width="100"/>
 
 ## Maximes
 Un heal n'est jamais sensé se heal lui même, car c'est un gachis de CD, puisque tout les spells utilisés sont des heal de zone, on peut donc heal soi et les autres en même temps. 
