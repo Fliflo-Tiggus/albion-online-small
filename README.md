@@ -1,5 +1,11 @@
 # Albion online guide en small
 
+- [Albion online guide en small](#albion-online-guide-en-small)
+  - [Pages](#pages)
+  - [C'est quoi un EQUI](#cest-quoi-un-equi)
+  - [Lexique](#lexique)
+  - [Remerciements](#remerciements)
+
 
 ## Pages
 - [Heal](/healer/healer.md)
@@ -17,5 +23,13 @@ NB: Généralement, les armes de cristal T8 flat ne sont pas craftés, car l'art
 
 En small, au moins les armes sont equi T8. 
 
+## Lexique
+
+|Terme|Explication|
+|-|-|
+|Shot caller| Celui qui donne des ordres, généralement un tank qui a la possibilité de pack les ennemis|
+|Pack| Groupe de joueurs très proches  l'un de l'autre, généralement initié par le shot caller|
+|Choke| De l'anglais "Choke point" désigne un point dans lequel les joueurs vont devoir se packer pour le passer. C'est une zone très dangereuse sur laquelle on pose des sorts defensifs.|
+
 ## Remerciements
-- Dravalgan pour sont aide sur les Heal
+- Dravalgan et Danhkir pour sont aide sur les Heal

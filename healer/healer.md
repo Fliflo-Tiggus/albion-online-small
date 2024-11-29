@@ -1,5 +1,22 @@
 # Healer
 
+- [Healer](#healer)
+  - [Les différents équipements](#les-différents-équipements)
+    - [Le GOAT - Le Sanctificateur](#le-goat---le-sanctificateur)
+    - [Le Bâton Déchu](#le-bâton-déchu)
+    - [Le Bâton de fléau](#le-bâton-de-fléau)
+    - [En commun](#en-commun)
+  - [Maximes](#maximes)
+  - [PB principaux](#pb-principaux)
+  - [Browl vs clap](#browl-vs-clap)
+  - [Situations uniques](#situations-uniques)
+    - [En open world](#en-open-world)
+    - [Castle](#castle)
+    - [Def terri](#def-terri)
+  - [PF de 10 vs 20](#pf-de-10-vs-20)
+  - [Pourquoi?](#pourquoi)
+
+
 **WARNING** Un heal se fait chier dessus constement. Il ne faut pas le prendre mal et surtout pas sur le moment, ça va toujours arriver. Il ne faut pas avoir d'égo. Si tu joue a l'égo, tu va faire perdre tout le monde, car tu as la vie de tout ton PF dans la paume de ta main. C'est beaucoup de responsabilités pour assez peu de rewards. 
 
 
@@ -16,12 +33,13 @@ Ce joue en equi T8 sur l'arme et le torse. T7 pour le reste.
 <img src="https://render.albiononline.com/v1/item/T8_SHOES_LEATHER_MORGANA@0?quality=4" alt="Bottes de traqueur"  width="100"/><img src="https://render.albiononline.com/v1/spell/DMG_BLINK" alt="1er passif" width="60"/><img src="https://render.albiononline.com/v1/spell/PASSIVE_BALANCE" alt="1er passif" width="60"/>
 
 
+Le E toujours en defensif sur les repacks. Attention a ne pas l'executer au moment/un instant après le repack, puisque de toute façon une clap bien exectutée sera impossible à heal. Il est preconisé d'attendre 0.5-1s avant de E in. Le Ereste possible en offensif, mais fortement déconseillé pour les heals débutants. Par exemple un E dans le repack du golem, CC le pack et heal un peu le golem (Pas hyper opti, mais possible, c'est une bonne prévention).
 
+La robe de pureté se joue en defensif, elle sert: 
+- D'anti re-pack
+- Pour bump les DPS/Tank def qui sont trop près de notre groupe (ou les faux en browl) 
 
-
-
-
-Le E toujours en defensif sur les repacks, mais il reste possible en offensif.  Par exemple un E dans le repack du golem, CC le pack et heal un peu le golem (Pas hyper opti, mais possible, c'est une bonne prévention).
+La capuche de druide se met on CD sur la front ou la back lane. 
 
 ### Le Bâton Déchu
 <img src="https://render.albiononline.com/v1/item/T8_2H_HOLYSTAFF_HELL@0?quality=4" alt="Sancti" width="100"/><img src="https://render.albiononline.com/v1/spell/HOLYFLASH" alt="Q" width="60"/><img src="https://render.albiononline.com/v1/spell/HOLYORB" alt="Z" width="60"/><img src="https://render.albiononline.com/v1/spell/HOLY_ULTIMATE" alt="E" width="60"/><img src="https://render.albiononline.com/v1/spell/PASSIVE_HOLY_ASCENDED" alt="4è passif" width="60"/>
@@ -46,6 +64,10 @@ On prends le 4è passif, car le E du déchu a un temps d'incentation, et il est 
 
 Se joue avec le soin purifiant, pour purger les CC. Il sert a combler les petit coups, car heal sur la durée pendant très longtemps. Les champis se placent entre les heals et les tanks, pour leur laisser le temps de se charger, et donner au tanks la possibilité de les consommer quand ils le veullent/en ont besoin.
 
+La robe d'écailles féériques se joue en deffensif avec le mur de feu, pour bloquer le passage des énemis. Par exemple lorsque l'on back, ou pour le passage d'une choke.
+
+La capuche de druide se met on CD sur la front ou la back lane. 
+
 ### En commun
 
 <img src="https://render.albiononline.com/v1/item/T8_CAPEITEM_FW_MARTLOCK
@@ -63,6 +85,7 @@ Pour les batons bénis, le Q est trop chiant pour les tanks éloignées, le Z es
 - Soit trouver des lignes bien dégagées
 - Ou en sancti E->Z 
   - Comme ça on la loupe pas, et les gens devant sont ceux que tu veux heal 
+- Une autre option est de se positionner en diagonale, et de voir les bénis comme des "ailiers". Cette position leur donne une bonne visibilité sur les tanks. 
 
 
 Faut rester **le plus mobile possible** et mega focus, car il peut se passer un truc en une demi seconde, et si tu n'est pas là c'est fini. 
