@@ -101,7 +101,8 @@ Regarder le moindre truc qui se passe sur tes tanks. Tant que ta front n'est pas
   - Dans un monde idéal ou tout le monde joue bien, tu n'a besoin de heal que le tank principal et les petit poke des tank def. 
 
 ## Browl vs clap 
-- La difference entre browl et clap se fait au niveau des armes et de la position. 
+- En Clap, tu met du heal sur les gens, en browl, les gens viennent chercher le heal
+- Il y a une difference egalement au niveau des armes et de la position. 
   - En browl, comme tu veux follow, le sancti marche, mais le fléau permet de suivre le pack
   - En clap:
     - Postion du milieu, mais un peu plus proche des tanks ( de la front) 
